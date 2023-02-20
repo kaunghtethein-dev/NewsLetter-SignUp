@@ -1,0 +1,6 @@
+Mailchimp api key
+
+1b7b9f336c58b6081ad6c34d71b528e8-us18
+
+Audience ID
+58c19fd101
