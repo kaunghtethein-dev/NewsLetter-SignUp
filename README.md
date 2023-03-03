@@ -6,3 +6,4 @@ This app is built with - <br/>
   * HTML
   * CSS
   * Node.js (with Express)
+  * MailChimp API
